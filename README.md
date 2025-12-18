@@ -2,7 +2,7 @@
 
 Proyecto desarrollado en el marco del **Hackatón ONE – No Country 2025**.
 
-FlightOnTime es una solución predictiva que estima la probabilidad de que un vuelo despegue **puntual o con retraso**, a partir de datos históricos y características del vuelo.
+FlightOnTime es una herramienta con la finalidad de predecir la probabilidad de que un vuelo despegue **puntual o con retraso**, a partir de un conjunto de datos históricos en función a las características del vuelo.
 
 ---
 
